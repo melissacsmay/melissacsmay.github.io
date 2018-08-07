@@ -2,12 +2,13 @@ style.css
 
 h6{}
 
-img {
+div.gallery {
     width: 1000px;
     border: 5px;
     padding: 5px;
     margin-left: 13%;
     margin-right: 13%;
+    float: left;
     align-items: center;
 }
 
