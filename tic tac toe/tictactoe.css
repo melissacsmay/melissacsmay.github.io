@@ -1,0 +1,24 @@
+h1, h2, div, a {
+	text-align: center;
+	font-family: Verdana;
+}
+
+table {
+	margin: 0 auto;
+	background-color: #707070;
+}
+
+.Square {
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	font-size: 18pt;
+	font-weight: bolder;
+	background-color: #E3E3E3;
+
+} 
+
+#link-container {
+	text-align: center;
+}
+
