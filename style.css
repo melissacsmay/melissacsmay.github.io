@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Share+Tech+Mono);">
+@media only screen and (max-width: 600px) {
+	header {
+		background-image: center;
+    }
+}
+
+header {
+	max-width:1500px;
+}
+
+div a {
+	width: 99%;
+}
+
+img alt="Avatar"{
+	border-radius: 50%; 
+	width: 210px; 
+	height: 200px;
+ }
+
+footer {
+	background-color: green;
+	text-align: center;
+
+}
